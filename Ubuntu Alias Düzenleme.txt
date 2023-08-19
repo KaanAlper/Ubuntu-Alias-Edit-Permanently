@@ -1,0 +1,5 @@
+Alias Düzenleme
+1) nano ~/.bashrc
+2) alias update='sudo apt-get update'
+3) alias upgrade='sudo apt-get upgrade'
+4) alias naut='sudo nautilus'
